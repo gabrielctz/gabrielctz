@@ -1,5 +1,3 @@
-# 🔎 About Me:
-🔭French student at developer & cybersecurity<br>🪐Saturn Citizen <br>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F19%2F6a%2Fd9%2F196ad9d3122098b297d7b99ce9ff209f.gif&f=1&nofb=1&ipt=6139bfe901f675c30529b6619337e8447a3dc389cc5174557246a3fc6c8d7166&ipo=images">
 
 # 🔧 Programming Language:
